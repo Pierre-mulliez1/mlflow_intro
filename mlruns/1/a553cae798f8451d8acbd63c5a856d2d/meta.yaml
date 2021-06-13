@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Pierre%20Computer/Documents/IE_classes/MLops/Assignment1_Pierre_Mulliez/mlruns/1/a553cae798f8451d8acbd63c5a856d2d/artifacts
+end_time: 1622826580546
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: a553cae798f8451d8acbd63c5a856d2d
+run_uuid: a553cae798f8451d8acbd63c5a856d2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1622826580047
+status: 3
+tags: []
+user_id: Pierre Computer

@@ -13,7 +13,9 @@ jupyter:
     name: conda-root-py
 ---
 
-# Wine prediction 
+<h2 style= "text-align: center; color: blue;font-weight: bold;">Wine prediction using Mlflow</h2>
+
+
 **Author**: Pierre Mulliez \
 **Created**: 04/06/2021 \
 **Description**: Run a machine learning model using Mlflow \
@@ -197,5 +199,19 @@ print("Minimum error run_id: ",run_id)
 
 ```python
 print('Best number of neighbor: ')
-df.loc[df.run_id == "8ac50649c1954d87b67e68177f38eff3",'params.Numbers of neighbors']
+df.loc[df.run_id == run_id,'params.Numbers of neighbors']
 ```
+
+### As we can see the optimal number of neighbor is 4
+
+
+# Comparing the run on mlflow 
+
+
+<img src="files/compare_model.png" alt="Please see screenshot included in the folder called compare model ">
+
+
+
+<h2 > Errors with 4 neighbors  </h2>
+<img src="files/errors.png" alt="Please see screenshot included in the folder called compare model " >
+

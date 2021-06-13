@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/Pierre%20Computer/Documents/IE_classes/MLops/Assignment1_Pierre_Mulliez/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: knn normelized
